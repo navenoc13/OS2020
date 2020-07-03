@@ -1,3 +1,6 @@
+# 2020 Spring - Operating System Project 2
+#### Project Description: https://hackmd.io/@buB4b8JxReG7RX6wHM9Iwg/HkeM7wt58
+
 This is the source code of operating system project2.
 
 ./master_device : the device moudule for master server
